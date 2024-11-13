@@ -1,0 +1,9 @@
+# Writeup cho thử thách: Real Flag - picoCTF
+
+## Mô tả
+Thử thách yêu cầu chúng ta xác minh mã băm của một tệp để đảm bảo đó là tệp hợp lệ, sau đó giải mã tệp này để lấy cờ. 
+
+**Thông tin:**
+- **Tác giả**: Jeffery John
+- **Thể loại**: CTF - Forensics
+- **Điểm**: [Điểm số của thử thách]
